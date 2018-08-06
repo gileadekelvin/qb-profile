@@ -1,0 +1,20 @@
+/* Style the lines by removing the fill and applying a stroke */
+.line {
+    fill: none;
+    stroke: #ffab00;
+    stroke-width: 3;
+}
+
+/* Style the dots by assigning a fill and stroke */
+.dot {
+    fill: #ffab00;
+    stroke: #fff;
+}
+
+.plot {
+    display: inline-block;
+    margin: auto;
+    width: 100%; 
+    padding-left: 30px;
+    padding-top:15px;       
+}
